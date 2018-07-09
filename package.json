@@ -1,0 +1,25 @@
+{
+  "name": "classy",
+  "version": "1.0.0",
+  "description": "Painless class registration!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtbarnes/classy.git"
+  },
+  "author": "Reed Barnes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtbarnes/classy/issues"
+  },
+  "homepage": "https://github.com/rtbarnes/classy#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "typed.js": "^2.0.8"
+  },
+  "devDependencies": {}
+}
